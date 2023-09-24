@@ -1,0 +1,14 @@
+[
+    {"name": "Math", "details": "Math is the study of numbers, quantity, space, structure, and change."},
+    {"name": "Physics", "details": "Physics is the natural science that studies matter, its motion and behavior through space and time, and the related entities of energy and force."},
+    {"name": "Chemistry", "details": "Chemistry is the scientific study of the properties and behavior of matter. It is a branch of the physical sciences which is concerned with the composition, structure, dynamics, change, and properties of matter."},
+    {"name": "Biology", "details": "Biology is the natural science concerned with the study of life and living organisms, including their structure, function, growth, evolution, distribution, and taxonomy."},
+    {"name": "History", "details": "History is the study of past events, particularly in human affairs."},
+    {"name": "Geography", "details": "Geography is the study of places and the relationships between people and their environments."},
+    {"name": "English", "details": "English is the study of language, literature, and composition, and the understanding of its various forms, structures, and contexts."},
+    {"name": "Astronomy", "details": "Astronomy is a natural science that studies celestial objects and phenomena. It uses mathematics, physics, and chemistry in order to explain their origin and evolution."},
+    {"name": "Computer Science", "details": "Computer Science is the study of computers and computational systems. It involves understanding the theory of computation, algorithms, and the design of computer systems."},
+    {"name": "Ecology", "details": "Ecology is the scientific study of interactions among organisms and their environment, such as the interactions organisms have with each other and with their abiotic environment."},
+    {"name": "Geology", "details": "Geology is the study of the Earth, the materials of which it is made, the structure of those materials, and the processes acting upon them."},
+    {"name": "Meteorology", "details": "Meteorology is the scientific study of the atmosphere that focuses on weather processes and forecasting."}
+]
